@@ -1,0 +1,51 @@
+E:\Tài liêu năm 3\Thực tập nhóm\Project TTNhom\QuanLyThuVien_1\QuanLyThuVien_1\bin\Debug\QuanLyThuVien_1.exe.config
+E:\Tài liêu năm 3\Thực tập nhóm\Project TTNhom\QuanLyThuVien_1\QuanLyThuVien_1\bin\Debug\QuanLyThuVien_1.exe
+E:\Tài liêu năm 3\Thực tập nhóm\Project TTNhom\QuanLyThuVien_1\QuanLyThuVien_1\bin\Debug\QuanLyThuVien_1.pdb
+E:\Tài liêu năm 3\Thực tập nhóm\Project TTNhom\QuanLyThuVien_1\QuanLyThuVien_1\obj\Debug\QuanLyThuVien_1.csprojResolveAssemblyReference.cache
+E:\Tài liêu năm 3\Thực tập nhóm\Project TTNhom\QuanLyThuVien_1\QuanLyThuVien_1\obj\Debug\QuanLyThuVien_1.Properties.Resources.resources
+E:\Tài liêu năm 3\Thực tập nhóm\Project TTNhom\QuanLyThuVien_1\QuanLyThuVien_1\obj\Debug\QuanLyThuVien_1.csproj.GenerateResource.Cache
+E:\Tài liêu năm 3\Thực tập nhóm\Project TTNhom\QuanLyThuVien_1\QuanLyThuVien_1\obj\Debug\QuanLyThuVien_1.exe
+E:\Tài liêu năm 3\Thực tập nhóm\Project TTNhom\QuanLyThuVien_1\QuanLyThuVien_1\obj\Debug\QuanLyThuVien_1.pdb
+E:\Tài liêu năm 3\Thực tập nhóm\Project TTNhom\QuanLyThuVien_1\QuanLyThuVien_1\obj\Debug\QuanLyThuVien_1.QuanTriThuhu.resources
+E:\Tài liêu năm 3\Thực tập nhóm\Project TTNhom\QuanLyThuVien_1\QuanLyThuVien_1\obj\Debug\QuanLyThuVien_1.QuanTriVien.resources
+E:\Tài liêu năm 3\Thực tập nhóm\Project TTNhom\QuanLyThuVien_1\QuanLyThuVien_1\obj\Debug\QuanLyThuVien_1.TrangChu1.resources
+E:\Tài liêu năm 3\Thực tập nhóm\Project TTNhom\QuanLyThuVien_1\QuanLyThuVien_1\obj\Debug\QuanLyThuVien_1.ChiTietThuThu.resources
+E:\Tài liêu năm 3\Thực tập nhóm\Project TTNhom\QuanLyThuVien_1\QuanLyThuVien_1\obj\Debug\QuanLyThuVien_1.ChiTietSach.resources
+E:\Tài liêu năm 3\Thực tập nhóm\Project TTNhom\QuanLyThuVien_1\QuanLyThuVien_1\obj\Debug\QuanLyThuVien_1.QuanLySach.resources
+E:\Tài liêu năm 3\Thực tập nhóm\Project TTNhom\QuanLyThuVien_1\QuanLyThuVien_1\obj\Debug\QuanLyThuVien_1.ThongTinSach.resources
+E:\Tài liêu năm 3\Thực tập nhóm\Project TTNhom\QuanLyThuVien_1\QuanLyThuVien_1\obj\Debug\QuanLyThuVien_1.DocGia.resources
+E:\Tài liêu năm 3\Thực tập nhóm\Project TTNhom\QuanLyThuVien_1\QuanLyThuVien_1\obj\Debug\QuanLyThuVien_1.QuanLyBanDoc.resources
+E:\Tài liêu năm 3\Thực tập nhóm\Project TTNhom\QuanLyThuVien_1\QuanLyThuVien_1\obj\Debug\QuanLyThuVien_1.TheDocGia.resources
+E:\Tài liêu năm 3\Thực tập nhóm\Project TTNhom\QuanLyThuVien_1\QuanLyThuVien_1\obj\Debug\QuanLyThuVien_1.ChiTietDocGia.resources
+E:\Tài liêu năm 3\Thực tập nhóm\Project TTNhom\QuanLyThuVien_1\QuanLyThuVien_1\obj\Debug\QuanLyThuVien_1.ChiTietPhieuMuon.resources
+E:\Tài liêu năm 3\Thực tập nhóm\Project TTNhom\QuanLyThuVien_1\QuanLyThuVien_1\obj\Debug\QuanLyThuVien_1.PhieuMuonTra.resources
+E:\Tài liêu năm 3\Thực tập nhóm\Project TTNhom\QuanLyThuVien_1\QuanLyThuVien_1\obj\Debug\QuanLyThuVien_1.QuanLyMuonTra.resources
+E:\Tài liêu năm 3\Thực tập nhóm\Project TTNhom\QuanLyThuVien_1\QuanLyThuVien_1\obj\Debug\QuanLyThuVien_1.ThongKe.resources
+E:\Tài liêu năm 3\Thực tập nhóm\Project TTNhom\QuanLyThuVien_1\QuanLyThuVien_1\obj\Debug\QuanLyThuVien_1.ThongKeNXB.resources
+E:\Tài liêu năm 3\Thực tập nhóm\Project TTNhom\QuanLyThuVien_1\QuanLyThuVien_1\obj\Debug\QuanLyThuVien_1.ThongKeTheLoai.resources
+E:\Tài liêu năm 3\Thực tập nhóm\Project TTNhom\QuanLyThuVien_1\QuanLyThuVien_1\obj\Debug\QuanLyThuVien_1.TimKiem.resources
+E:\Tài liêu năm 3\Thực tập nhóm\Project TTNhom\QuanLyThuVien_1\QuanLyThuVien_1\obj\Debug\QuanLyThuVien_1.TimKiemDocGia.resources
+E:\Tài liêu năm 3\Thực tập nhóm\Project TTNhom\QuanLyThuVien_1\QuanLyThuVien_1\obj\Debug\QuanLyThuVien_1.TimKiemSach.resources
+E:\Tài liêu năm 3\Thực tập nhóm\Project TTNhom\QuanLyThuVien_1\QuanLyThuVien_1\obj\Debug\QuanLyThuVien_1.GioiThieuPhanMem.resources
+E:\Tài liêu năm 3\Thực tập nhóm\Project TTNhom\QuanLyThuVien_1\QuanLyThuVien_1\obj\Debug\QuanLyThuVien_1.DangNhap.resources
+E:\Tài liêu năm 3\Thực tập nhóm\Project TTNhom\QuanLyThuVien_1\QuanLyThuVien_1\obj\Debug\QuanLyThuVien_1.DoiMatKhau.resources
+E:\Tài liêu năm 3\Thực tập nhóm\Project TTNhom\QuanLyThuVien_1\QuanLyThuVien_1\obj\Debug\QuanLyThuVien_1.TaoTaiKhoan.resources
+E:\Tài liêu năm 3\Thực tập nhóm\PhanCong\Hau\QuanLyThuVien_1\QuanLyThuVien_1\bin\Debug\QuanLyThuVien_1.exe.config
+E:\Tài liêu năm 3\Thực tập nhóm\PhanCong\Hau\QuanLyThuVien_1\QuanLyThuVien_1\obj\Debug\QuanLyThuVien_1.exe
+E:\Tài liêu năm 3\Thực tập nhóm\PhanCong\Hau\QuanLyThuVien_1\QuanLyThuVien_1\obj\Debug\QuanLyThuVien_1.pdb
+E:\Tài liêu năm 3\Thực tập nhóm\PhanCong\Hau\QuanLyThuVien_1\QuanLyThuVien_1\obj\Debug\QuanLyThuVien_1.csprojResolveAssemblyReference.cache
+E:\Tài liêu năm 3\Thực tập nhóm\PhanCong\Hau\QuanLyThuVien_1\QuanLyThuVien_1\obj\Debug\QuanLyThuVien_1.ChiTietSach.resources
+E:\Tài liêu năm 3\Thực tập nhóm\PhanCong\Hau\QuanLyThuVien_1\QuanLyThuVien_1\obj\Debug\QuanLyThuVien_1.ChiTietThuThu.resources
+E:\Tài liêu năm 3\Thực tập nhóm\PhanCong\Hau\QuanLyThuVien_1\QuanLyThuVien_1\obj\Debug\QuanLyThuVien_1.DangNhap.resources
+E:\Tài liêu năm 3\Thực tập nhóm\PhanCong\Hau\QuanLyThuVien_1\QuanLyThuVien_1\obj\Debug\QuanLyThuVien_1.DoiMatKhau.resources
+E:\Tài liêu năm 3\Thực tập nhóm\PhanCong\Hau\QuanLyThuVien_1\QuanLyThuVien_1\obj\Debug\QuanLyThuVien_1.GioiThieuPhanMem.resources
+E:\Tài liêu năm 3\Thực tập nhóm\PhanCong\Hau\QuanLyThuVien_1\QuanLyThuVien_1\obj\Debug\QuanLyThuVien_1.Properties.Resources.resources
+E:\Tài liêu năm 3\Thực tập nhóm\PhanCong\Hau\QuanLyThuVien_1\QuanLyThuVien_1\obj\Debug\QuanLyThuVien_1.QuanLySach.resources
+E:\Tài liêu năm 3\Thực tập nhóm\PhanCong\Hau\QuanLyThuVien_1\QuanLyThuVien_1\obj\Debug\QuanLyThuVien_1.QuanTriThuhu.resources
+E:\Tài liêu năm 3\Thực tập nhóm\PhanCong\Hau\QuanLyThuVien_1\QuanLyThuVien_1\obj\Debug\QuanLyThuVien_1.QuanTriVien.resources
+E:\Tài liêu năm 3\Thực tập nhóm\PhanCong\Hau\QuanLyThuVien_1\QuanLyThuVien_1\obj\Debug\QuanLyThuVien_1.TaoTaiKhoan.resources
+E:\Tài liêu năm 3\Thực tập nhóm\PhanCong\Hau\QuanLyThuVien_1\QuanLyThuVien_1\obj\Debug\QuanLyThuVien_1.ThongTinSach.resources
+E:\Tài liêu năm 3\Thực tập nhóm\PhanCong\Hau\QuanLyThuVien_1\QuanLyThuVien_1\obj\Debug\QuanLyThuVien_1.TrangChu1.resources
+E:\Tài liêu năm 3\Thực tập nhóm\PhanCong\Hau\QuanLyThuVien_1\QuanLyThuVien_1\obj\Debug\QuanLyThuVien_1.csproj.GenerateResource.Cache
+E:\Tài liêu năm 3\Thực tập nhóm\PhanCong\Hau\QuanLyThuVien_1\QuanLyThuVien_1\bin\Debug\QuanLyThuVien_1.exe
+E:\Tài liêu năm 3\Thực tập nhóm\PhanCong\Hau\QuanLyThuVien_1\QuanLyThuVien_1\bin\Debug\QuanLyThuVien_1.pdb
